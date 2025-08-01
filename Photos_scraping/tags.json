@@ -1,0 +1,98 @@
+{
+	"yandex":{
+		"tag_name":{
+			"input_line":"input"
+		},
+		"xpath":{
+			"button_text":"//span[@class='button__text']",
+			"organizations_inside":"//div[@class='tabs-select-view__title _name_inside']",
+			"organization_list_element_div":"//li[@class='search-snippet-view']",
+			"organization_scrollable":"//div[@class='scroll__container']",
+			"organization_name":"//div[@class='search-business-snippet-view__title']",
+			"organization_link":"//a[@class='link-overlay']",
+			"photos_button":"//div[@class='tabs-select-view__title _name_gallery']",
+			"button1":"//span[@class='button__text']",
+			"image_photo":"//img[@class='media-wrapper__media']",
+			"panorama_div":"//div[@class='card-media-preview _type_panorama']",
+			"panorama_but":"//button[@class='card-media-preview _type_panorama']",
+			"open_photos_main_page":"//div[@class='photos-thumbnail-view _clickable']",
+			"close_photos_main_page":"//div[@class='media-header__button _type_close']",
+			"panorama_main":"//div[@class='panorama-player-view _collapsed']",
+			"marker_div":"//div[@class='search-placemark-view _position_right']",
+			"arrow_move":"//div[@class='carousel__arrow-wrapper _centered _next _size_l']"
+			
+			
+			
+			
+		},
+		"class_name":{
+			"organization_name":"search-business-snippet-view__title",
+			"organization_list":"card-businesses-list__list",
+			"card_title":"card-title-view__title",
+			"card_description":"toponym-card-title-view__description",
+			"canvas_name":"panorama-player-view__name",
+			"panorama_placemark":"panorama-player-placemark",
+			"panorama_zoom":"zoom-control",
+			"panorama_contorls_2":"panorama-controls-view__group",
+			"panorama_controls_close":"panorama-controls-view__close",
+			"panorama_controls_all":"panorama-player-view__controls",
+			"panorama_top_part_all":"panorama-player-view__top-controls",
+			"panorama_logo":"panorama-player-view__logo",
+			"coords_elem":"toponym-card-title-view__coords-badge",
+			"photos_number":"card-media-preview__label",
+			"photos_container":"photos-component__container",
+			"photos_single_container":"photos-player-view__tape-layout",
+			"scroll_container":"scroll__container",
+			"organizations_list(broken)":"busisness-tab-wrapper__content",
+			"nothing_found":"nothing-found-view__header",
+			"carousel_content":"carousel__content",
+			"unclear_warning":"search-list-view__warning",
+			"address_div":"business-contacts-view__address",
+			"organizations_first_list":"search-business-snippet-view",
+			"photos_tab":"photos-tags__tab-photo",
+			"error_tab":"content-panel-error-view__title"
+			
+			
+			
+		}
+	},
+	"2gis":{
+		"tag_name":{
+			"input_line":"input"
+		},
+		"xpath":{
+			
+		},
+		"class_name":{
+			"found_addresses_pressed":"_5b28jpo",
+			"found_addresses_unpressed":"_1kf6gff",
+			"found_addresses_hover":"_1wgk7h51",
+			"scroll_right":"_m3tuzzo",
+			"carusel_element":"_13qjot8",
+			"main_panel":"_z72pvu",
+			"additional_panel":"_fjltwx",
+			"photos_divs":"_1dk5lq4",
+			"photos_type":"_1iurgbx",
+			"photos_list":"_qvsf7z",
+			"scrollable_div":"_1rkbbi0x",
+			"coords_div":"_yo9a24n",
+			"place_name":"_1x89xo5",
+			"place_name_closed":"_ihld2v",
+			"place_name_closed_list":"_gunumog",
+			"org_header":"_zjunba",
+			"places_number":"_1xhlznaa",
+			"more_photos_types":"_hscx8p",
+			"add_photos":"_194u7mfn",
+			"trace":"_1pl504b",
+			"address_tag":"_klarpw",
+			"address_tag_closed":"_1w9o2igt",
+			"nothing_found":"_1bpmqll",
+			"loading_search_results":"_lgznkc",
+			"pages_block":"_5ocwns",
+			"unclickable_next_page":"_7q94tr",
+			"clickable_next_page":"_n5hmn94"
+			
+		}
+	}
+	
+}
